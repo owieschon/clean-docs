@@ -1,5 +1,5 @@
 {
-  "schema": "clean-docs.review-event-ledger.v1",
+  "schema": "clean-docs.review-event-ledger.v2",
   "review_id": "repository-review",
   "events": [
     {
@@ -336,5 +336,6 @@
       "digest": "4e1a8db7b89893191b971f72690aa3898e8070d43c2467a202d06252d8084638"
     }
   ],
-  "head_digest": "4e1a8db7b89893191b971f72690aa3898e8070d43c2467a202d06252d8084638"
+  "head_digest": "4e1a8db7b89893191b971f72690aa3898e8070d43c2467a202d06252d8084638",
+  "migration_base_head_digest": "4e1a8db7b89893191b971f72690aa3898e8070d43c2467a202d06252d8084638"
 }
