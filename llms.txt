@@ -4,7 +4,7 @@
 
 ## Canonical documentation
 
-- [CLEAN_DOCS_SPEC.md](CLEAN_DOCS_SPEC.md): bindings: assurance-boundaries; sha256: 08956337b3604d44ac171bd9ca8ee12a6da60b5d8c19118697ca648a90ff95f6
+- [CLEAN_DOCS_SPEC.md](CLEAN_DOCS_SPEC.md): bindings: assurance-boundaries; sha256: da7c843534972b4fa5ec12a82257e4887971c811e14bd3ef8b2e73d7d8fa45bf
 - [README.md](README.md): bindings: product-overview; sha256: fca24117801839154e7c26346af3bdd29f179f73a85558132bf51d6c2f77c9ef
 - [SECURITY.md](SECURITY.md): declared canonical context; sha256: 5a10b7b08e5b26a5302e0f775320a59b8bd200da7fa858fc890342d7db0dd270
 - [STANDARD.md](STANDARD.md): declared canonical context; sha256: ad8d962766edbe05585d934be6378a9e737ce3bb1934508f1d44ad53e824f3d2
