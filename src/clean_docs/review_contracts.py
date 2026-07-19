@@ -10,10 +10,14 @@ import json
 import math
 import re
 import subprocess
-import tomllib
 from dataclasses import asdict, dataclass, field
 from datetime import date, datetime, time
 from pathlib import Path
+
+try:
+    import tomllib
+except ModuleNotFoundError:
+    import tomli as tomllib
 
 import yaml
 
