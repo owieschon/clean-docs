@@ -364,6 +364,36 @@
       "previous_digest": "fbdb5569cb1b2dfe94fd3d645f5bb49efa4ce867bd5215c58edaa24e96992e77",
       "replaces_candidate_id": "9a4011c2ddebb8884e8b1de489e222e024ffffb0a017db1e9700d61195c5620f",
       "digest": "4d5c53f81ce216e6178808df1dc1d67190fdc40e7d2da0da1d5f1127e1526e6f"
+    },
+    {
+      "id": "revision-accepted-writing-debt-342a476a6b35",
+      "observation_id": "accepted-writing-debt",
+      "disposition": "candidate",
+      "candidate_id": "342a476a6b356e7aea0ba0142abed4b6541f2f86e17780bf68f2fc0f96b9b35f",
+      "successor": null,
+      "previous_digest": "4d5c53f81ce216e6178808df1dc1d67190fdc40e7d2da0da1d5f1127e1526e6f",
+      "replaces_candidate_id": "2e646e9cf01844250cd5a3d66a617034127d251551634538186d0ea5f500076e",
+      "digest": "ec39019b838614d13fc232fa3537490462794b7ccdf7e2597b3d4ef4649eb0b5"
+    },
+    {
+      "id": "revision-direct-coverage-gap-f454212db98a",
+      "observation_id": "direct-coverage-gap",
+      "disposition": "candidate",
+      "candidate_id": "f454212db98a015c049639d5318c752e340ece5ec38bd0f8cbde293d6eccfe8a",
+      "successor": null,
+      "previous_digest": "ec39019b838614d13fc232fa3537490462794b7ccdf7e2597b3d4ef4649eb0b5",
+      "replaces_candidate_id": "38a649a41670524e61ba64b6df7e2fa2bf2cba4dcefc9d95c0f6682d319490af",
+      "digest": "dc99b62e698640b4299f98bb918aeb0f222d8bcb7d3565e8da5f34352a6d2de5"
+    },
+    {
+      "id": "revision-release-reader-attestation-453610965cf6",
+      "observation_id": "release-reader-attestation",
+      "disposition": "candidate",
+      "candidate_id": "453610965cf6e3684a7f8cdc723c8d5f6e3f9c3728dda80f4265585de4e1751e",
+      "successor": null,
+      "previous_digest": "dc99b62e698640b4299f98bb918aeb0f222d8bcb7d3565e8da5f34352a6d2de5",
+      "replaces_candidate_id": "e0f51c8c99245778b3d80e0943d15efb9d35d0eb6f476d721d1989a2fb974c94",
+      "digest": "286509217b037f2a64684cb6d996130a6ee4b400f216b5213a9341e2bfdd238b"
     }
   ],
   "head_digest": "4e1a8db7b89893191b971f72690aa3898e8070d43c2467a202d06252d8084638",
