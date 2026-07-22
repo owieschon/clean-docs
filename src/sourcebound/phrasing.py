@@ -38,7 +38,7 @@ TEMPLATE_KINDS = {
     },
     "provides": {
         "api-endpoint", "api-symbol", "cli-command", "cli-option", "mcp-tool", "package",
-        "package-script", "schema", "test-runner", "test-suite",
+        "make-target", "package-script", "schema", "test-runner", "test-suite",
     },
     "tests": {"test-runner", "test-suite"},
 }

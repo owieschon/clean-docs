@@ -136,6 +136,14 @@ belongs in reader-facing documentation; add the exact ignore when it does not.
 An unselected cataloged item remains a cataloged item. This policy does not
 declare that every detected API, option, or schema needs prose.
 
+Static inventory recognizes concrete target declarations in `Makefile` and
+`GNUmakefile` without running `make`. It records each target's declarations,
+recipes, referenced top-level variables, and phony status. Includes,
+conditionals, generated targets, custom recipe prefixes, pattern rules, and
+other dynamic syntax remain unknown during impact planning instead of receiving
+a static-coverage claim. A changed top-level assignment that cannot be traced to
+a concrete target also remains unknown.
+
 ## Review contracts
 
 `review_contracts` declare observe-only relationships between exact source and documentation
